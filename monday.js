@@ -2,7 +2,7 @@ const axios = require("axios");
 const FormData = require("form-data");
 const fs = require("fs");
 
-const API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJ0aWQiOjYzMzYxMzkzOSwiYWFpIjoxMSwidWlkIjoxMDEwNDc2NjUsImlhZCI6IjIwMjYtMDMtMTZUMTQ6MTg6MzMuNDkxWiIsInBlciI6Im1lOndyaXRlIiwiYWN0aWQiOjM0MjQ3MTk2LCJyZ24iOiJhcHNlMiJ9.zZJBzfJc8O6QjPXne38HtA-kg4gthjiOJOYsNAmPYpM";
+const API_KEY = "YOUR-API-KEY";
 const BOARD_ID = 5027241568;
 
 // ✅ CREATE ITEM (UNCHANGED)
